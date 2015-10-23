@@ -1,0 +1,4 @@
+Bootstrap86
+====
+
+This project is an experiment in pulling yourself up by your computational bootstraps. The goal is to start with a barebones monitor program running on an 8086 processor (provided by emu8086) and end up with a fully-fledged computing environment.
